@@ -358,7 +358,7 @@ if __name__ == "__main__":
     #健康小提示
     health_tip = health()
     #下雨概率和建议
-    pop,tips = tip()
+    tips = tip()
     #励志名言
     lizhi = lizhi()
     #星座运势
